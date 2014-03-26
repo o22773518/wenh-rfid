@@ -1,7 +1,4 @@
-## Welcome to 黃文楨 ID RFID class ##
-
-    C#
-    line 1
-    line 2
-
-## section 2 ##
+第十組
+9824083涂國勛
+0124054葉人慶
+0124026楊琮堡

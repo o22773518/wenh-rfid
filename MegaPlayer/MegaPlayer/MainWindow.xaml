@@ -1,0 +1,26 @@
+﻿<mui:ModernWindow
+        x:Class="MegaPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+        Title="MainWindow"
+        Height="350"
+        Width="525"
+        WindowState="Maximized"
+        ResizeMode="NoResize"
+        
+        SnapsToDevicePixels="True"
+        ContentSource="Pages/Login.xaml"
+        >
+    <mui:ModernWindow.MenuLinkGroups>
+        <mui:LinkGroup DisplayName="Mega Player" x:Name="TabGroup" >
+            <mui:LinkGroup.Links>
+                
+
+            </mui:LinkGroup.Links>
+        </mui:LinkGroup>
+    </mui:ModernWindow.MenuLinkGroups>
+    <Grid>
+        
+    </Grid>
+</mui:ModernWindow>

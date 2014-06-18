@@ -1,0 +1,16 @@
+﻿using CG.Web.MegaApiClient;
+using System;
+using System.Collections.Generic;
+using System.Configuration;
+using System.Data;
+using System.Linq;
+using System.Windows;
+
+namespace MegaPlayer {
+    /// <summary>
+    /// App.xaml 的互動邏輯
+    /// </summary>
+    public partial class App : Application {
+        public static MegaApiClient client = new MegaApiClient();
+    }
+}
